@@ -17,4 +17,4 @@ echo "Enter your Program:"
 read PROGRAM
 
 #Display a personalized message
-echo "Hello $USER_NAME! Your age is, $AGE. and your program is $PROGRAM."
+echo "Hello  $USER_NAME! Your age is, $AGE. and your program is $PROGRAM."
